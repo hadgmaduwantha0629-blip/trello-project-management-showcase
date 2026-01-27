@@ -23,4 +23,5 @@ for managing a software project using a Kanban workflow.
 (see screenshots folder)
 
 ## Trello Board Link
-<PASTE YOUR TRELLO LINK HERE>
+[<PASTE YOUR TRELLO LINK HERE>
+](https://trello.com/invite/b/69787175b3bec3d45a818437/ATTI8ce512d919dbb0ca672b79ad9dc89561A138EC49/student-task-manager-app-pm-trello)
